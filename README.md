@@ -1,16 +1,21 @@
-# kscope
+# kscope 萬花筒視覺引擎（Flutter）
 
-A new Flutter project.
+這是一個以 Flutter 開發的動態萬花筒視覺程式，具備高流暢度的色彩變化、八片鏡射效果，以及可跨平台運行的優點（Windows / Android / Web）。
 
-## Getting Started
+本專案模擬真實萬花筒的光學與旋轉行為，包括色塊流動、鏡射折射、中心八角形旋轉、外圈暗角與微量噪點等效果。
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 功能簡介
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **液態金屬風格色塊變化**：持續且不重複的彩色流動。
+- **真實萬花筒鏡射效果**：八片對稱分割，具備光學鏡射感。
+- **中心八角形旋轉**：跟隨旋轉方向動態旋轉。
+- **桌面版互動**：  
+  - 點擊切換順／逆時針  
+  - 雙擊觸發強烈搖晃重置  
+- **手機版互動**：  
+  - 使用陀螺儀控制旋轉（高靈敏度）  
+  - 搖晃手機觸發重置  
+- **視覺增強效果**：外圈暗角、亮度柔化、粒子噪點。
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.

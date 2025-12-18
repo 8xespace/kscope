@@ -1,16 +1,21 @@
-# kscope
+# 療癒萬花筒 kaleidoscope
 
-A new Flutter project.
+一款以 Flutter 高速渲染與視覺特效 驅動的 iOS App。
 
-## Getting Started
+kscope 以「視覺沉浸」為核心概念，透過高幀率動畫、光暈與粒子效果，打造快速開啟、即時呈現的體驗。
+沒有複雜操作、沒有冗餘流程，啟動即是效果，視覺即是品牌。
 
-This project is a starting point for a Flutter application.
+# Highlights
+基於 Flutter 的 動畫、光暈、色彩層次表現
+1. 極低延遲的 啟動視覺衝擊
+2. 精煉、直接、展示型 UX
+3. 已在 App Store 正式上架
 
-A few resources to get you started if this is your first Flutter project:
+# Positioning
+kscope 不是一個工具型應用，而是展示 行動端視覺表現能力、品牌開場與片頭衍生可能 的載體。
+它可以是展示、嘗試、靈感，或是下一個更完整產品的開端。
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+# Availability
+App Store – 上架版本已公開下載。
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+本版本完結並封存，後續功能將在新的分頁與更新中延伸。
